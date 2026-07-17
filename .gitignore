@@ -1,0 +1,13 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment — NEVER commit real keys
+.env
+
+# Editor
+.vscode/
+.idea/
